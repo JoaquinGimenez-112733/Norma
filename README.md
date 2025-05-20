@@ -1,11 +1,6 @@
 # Norma
 Unreal Platformer 2D game for UPC - TU
 
-
-README.md
-﻿
-# Norma
-
 ## Controles
 
 - **A** – Mover a la izquierda  
